@@ -1,1 +1,9 @@
 C:\Users\Elay\Desktop\Github Repos\Calculator-2\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Elay\Desktop\Github Repos\Calculator-2\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Elay\Desktop\Github Repos\Calculator-2\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Elay\Desktop\Github Repos\Calculator-2\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Elay\Desktop\Github Repos\Calculator-2\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Elay\Desktop\Github Repos\Calculator-2\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Elay\Desktop\Github Repos\Calculator-2\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Elay\Desktop\Github Repos\Calculator-2\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Elay\Desktop\Github Repos\Calculator-2\Calculator\Calculator\obj\Debug\Calculator.pdb
