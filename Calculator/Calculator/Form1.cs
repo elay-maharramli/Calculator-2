@@ -53,5 +53,12 @@ namespace Calculator
             d = a / b;
             res.Text = Convert.ToString(d);
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "";
+            textBox2.Text = "";
+            res.Text = "0";
+        }
     }
 }
